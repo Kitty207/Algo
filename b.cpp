@@ -1,4 +1,4 @@
-
+//nearly lucky number
 #include <iostream>
 using namespace std;
 
